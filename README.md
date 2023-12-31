@@ -12,7 +12,7 @@ Download the mind-map docker image from Docker Hub
 Build from source
 - clone this repo
   ```sh
-  git clone https://github.com/tdim/mind-map
+  git clone https://github.com/Hima-Pro/mind-map
   ```
 - build with docker :
   ```sh
