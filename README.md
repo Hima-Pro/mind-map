@@ -2,7 +2,7 @@
 view and create mind map online for free, no sign up or credit card required, docker version
 
 ## Demo
-[https://github.com/wanglin2/mind-map](https://github.com/wanglin2/mind-map)
+[https://wanglin2.github.io/mind-map/](https://wanglin2.github.io/mind-map/)
 
 ## Installation
 Download the mind-map docker image from Docker Hub
